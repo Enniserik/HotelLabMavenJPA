@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 10, 2015, 9:15:06 PM
+    Author     : Erik
+*/
+.selectable{
+    background-color: #ADFF2F;
+    
+}
+
+.selected{
+    background-color: #78B220;
+    
+}
+
+#error{
+    color: red;
+    
+}
+
+.small_td{
+    color: blue;
+    text-align: right;
+    
+}
